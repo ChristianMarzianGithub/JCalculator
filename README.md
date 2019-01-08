@@ -1,2 +1,2 @@
 # JCalculator
-A Calculator Service written in Java 10
+A Calculator Service written in Java
